@@ -1,2 +1,2 @@
 varah for git
-got gnp
+from gnp
